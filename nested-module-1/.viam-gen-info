@@ -1,0 +1,13 @@
+{
+  "module_name": "nested-module-1",
+  "visibility": "private",
+  "namespace": "njooma",
+  "language": "go",
+  "resource_type": "component",
+  "resource_subtype": "generic",
+  "model_name": "nested_generic_component",
+  "initialize_git": false,
+  "generator_version": "0.1.0",
+  "generated_on": "2026-09-29T22:06:38.009927Z",
+  "module_readme_link": "README.md"
+}
